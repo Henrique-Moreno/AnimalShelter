@@ -1,3 +1,3 @@
 # AnimalShelter 🐕
 
-- Project still in development
+- Construindo uma API REST e aplicando as melhores práticas em Java. ☕🐕
